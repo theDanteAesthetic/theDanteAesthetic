@@ -1,2 +1,2 @@
-//Dante Squires
-//Knows how to code somewhat
+Who even is Dante Squires anyway?
+
