@@ -1,1 +1,2 @@
-The Dante Aesthetic != The Incredibles 2 Aesthetic
+//Dante Squires
+//Knows how to code somewhat
